@@ -19,3 +19,4 @@ A repository showcasing examples of using [PyTorch](https://github.com/pytorch/p
 Additionally, a list of good examples hosted in their own repositories:
 
 - [Neural Machine Translation using sequence-to-sequence RNN with attention (OpenNMT)](https://github.com/OpenNMT/OpenNMT-py)
+https://docs.google.com/presentation/d/1a01PRIkVKNboEVZykPXjibh4-yxoJXkvV1j04iUbd28/edit#slide=id.g8666479880_0_1093
